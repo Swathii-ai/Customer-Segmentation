@@ -24,6 +24,6 @@ This project uses **K-Means Clustering** to group customers based on behavioral 
 
 ## 📬 Connect
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-profile) or email: your.email@example.com
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/swathiim) or email: swathichandran112@gmail.com
 
 ---
